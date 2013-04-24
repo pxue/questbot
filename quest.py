@@ -34,7 +34,7 @@ def quest():
 
     # select the latest term, you can change the number here
     # from 1 to i for which ever term you want
-    br["SSR_DUMMY_RECV1$sels$0"] = ['2']
+    br["SSR_DUMMY_RECV1$sels$0"] = ['0']
 
     # do not modify any thing below here
     br["DERIVED_SSTSNAV_SSTS_MAIN_GOTO$22$"] = ['9999']
